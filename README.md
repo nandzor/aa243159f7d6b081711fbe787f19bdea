@@ -8,7 +8,7 @@ Parameter : \
 from \
 subject \
 to \
-content \
+content
 
 Maaf sebelumnya saya sama sekali belum pernah menggunakan PostgreSQL, Docker dan Oauth2 untuk authentikasi. \
 Maaf saya hanya bisa mengerjakan sebisa saya saja :) \

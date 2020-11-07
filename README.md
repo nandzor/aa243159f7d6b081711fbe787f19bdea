@@ -3,6 +3,13 @@ fitur:
 1. send email
 2. insert data to table
 
+LInk : localhost:8000/api_email/send \
+Parameter : \
+from \
+subject \
+to \
+content \
+
 Maaf sebelumnya saya sama sekali belum pernah menggunakan PostgreSQL, Docker dan Oauth2 untuk authentikasi. \
 Maaf saya hanya bisa mengerjakan sebisa saya saja :) \
 

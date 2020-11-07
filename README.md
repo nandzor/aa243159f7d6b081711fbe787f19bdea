@@ -19,4 +19,5 @@ Akhirnya saya pakai Simple Auth saja hehe. \
 Mungkin next time kalo saya beneran diterima kerja saya akan coba belajar banyak lg tentang authorization dan authentication. \
 Terutama Oauth2, dan juga docker \
 So far email send dan insert data nya sudah jalan. \
+Thanks.
 

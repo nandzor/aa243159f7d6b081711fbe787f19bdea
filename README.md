@@ -4,7 +4,7 @@ fitur:
 2. insert data to table
 
 LInk : localhost:8000/api_email/send \
-METHOD : POST;
+METHOD : POST \
 Parameter : \
 from \
 subject \
